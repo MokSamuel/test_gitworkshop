@@ -8,3 +8,6 @@ print(a)
 #ingewikkeldere functies kunnen ook worden uitgevoerd
 for i in range(0,5):
     print("Dit is het " + str(i) +"de nummer!")
+	
+
+#test
